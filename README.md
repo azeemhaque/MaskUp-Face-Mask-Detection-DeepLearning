@@ -8,11 +8,6 @@ I’m genuinely concerned about them. So, Instead of sitting idle and let negati
 .In the above project i used webscrapped data with classes people wearing mask and no mask and trained a resent 50. then i used the model to predict on a webcam feed
 
 
-Installation:
-
-All the required installation are mentioned in the requirements.txt
-
-
 Usage:
 
 Step 1:training the model with the appropriate data with training.ipynb, downloading the model weights.
